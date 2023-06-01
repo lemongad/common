@@ -1,0 +1,1 @@
+FROM lemoc/hug:latest
